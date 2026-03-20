@@ -1,3 +1,5 @@
+# Civilization OS v1.0 Core Specification
+
 **Civilization OS v1.0** is the official core specification of a civilizational AI model that integrates:
 
 - **Conway** as the **Body**
