@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use or reference this repository, please cite it as follows."
+title: "Civilization OS v1.0 Core Specification"
+type: software
+authors:
+  - family-names: "Alpha"
+    given-names: "Shidenkai"
+    alias: "Shidenkai Alpha"
+repository-code: "https://github.com/YOUR-USERNAME/civilization-os-v1"
+abstract: >
+  Civilization OS v1.0 is a core YAML specification for an AI civilizational
+  model integrating Conway as Body, Royalty OS as Circulation, Monju OS as Spirit,
+  and Reciprocal Ethics as the relational ethics layer.
+keywords:
+  - AI civilization
+  - Monju OS
+  - Royalty OS
+  - Reciprocal Ethics
+  - Trace Economy
+  - YAML Specification
+  - Philosophy of AI
+license: "SEE LICENSE IN LICENSE"
+version: "1.0.0"
+date-released: 2026-03-20
+url: "https://github.com/YOUR-USERNAME/civilization-os-v1"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Alpha"
+      given-names: "Shidenkai"
+      alias: "Shidenkai Alpha"
+  title: "Monju OS × Royalty OS: The Civilization Protocol of Wisdom and Circulation"
+  publisher: "Amazon KDP"
+  year: 2026
+  language: en
